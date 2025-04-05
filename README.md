@@ -1,4 +1,9 @@
-## Hi there 👋
+# Olá! Eu sou a Dani 👋
+🎓 Acadêmica de TSI - UESPI  
+💻 Apaixonada por tecnologia e explorando o mundo da programação!  
+🌟 Aprendendo: **HTML, CSS, JavaScript**  
+📫 Você pode me encontrar em: [Discord](https://discordapp.com/users/688916004377460799)  
+
 
 <!--
 **daniolivem/daniolivem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
