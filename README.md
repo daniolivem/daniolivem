@@ -11,7 +11,7 @@ Sou **Daniely Mélo**, estudante no **2º período de Sistemas para Internet** p
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dani.melo.projetos@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/daniely-m%C3%A9lo-6a1a2b352)
 
-✨ *"Se você pode sonhar, você pode codar!"*
+✨ *"O código que você escreve hoje é o projeto incrível de amanhã, o emprego dos seus sonhos depois de amanhã e, quem sabe, a próxima revolução digital no futuro!"*
 
 <!--
 **daniolivem/daniolivem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
