@@ -6,12 +6,24 @@ Sou **Daniely Mélo**, estudante no **2º período de Sistemas para Internet** p
 - Geração Tech 2.0
 - Residência TIC do Capacita Brasil
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniolivem&hide_progress=true)
 
 📬 **Conecte-se comigo:**
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/688916004377460799)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dani.melo.projetos@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/daniely-m%C3%A9lo-6a1a2b352)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=daniolivem" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniolivem&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daniolivem&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daniolivem&repo=convoychat" />
+</a>
 
 ✨ *"O código que você escreve hoje é o projeto incrível de amanhã, o emprego dos seus sonhos depois de amanhã e, quem sabe, a próxima revolução digital no futuro!"*
 
