@@ -18,12 +18,7 @@ Sou **Daniely Mélo**, estudante no **2º período de Sistemas para Internet** p
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniolivem&layout=compact&langs_count=8&card_width=320" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daniolivem&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daniolivem&repo=convoychat" />
-</a>
+
 
 ✨ *"O código que você escreve hoje é o projeto incrível de amanhã, o emprego dos seus sonhos depois de amanhã e, quem sabe, a próxima revolução digital no futuro!"*
 
