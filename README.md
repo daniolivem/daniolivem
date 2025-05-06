@@ -6,6 +6,9 @@ Sou **Daniely Mélo**, estudante no **2º período de Sistemas para Internet** p
 - Geração Tech 2.0
 - Residência TIC do Capacita Brasil
 
+<a href="https://github.com/daniolivem/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniolivem&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 📬 **Conecte-se comigo:**
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/688916004377460799)
@@ -13,9 +16,7 @@ Sou **Daniely Mélo**, estudante no **2º período de Sistemas para Internet** p
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/daniely-m%C3%A9lo-6a1a2b352)
 
 
-<a href="https://github.com/daniolivem/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniolivem&layout=compact&langs_count=8&card_width=320" />
-</a>
+
 
 
 ✨ *"O código que você escreve hoje é o projeto incrível de amanhã, o emprego dos seus sonhos depois de amanhã e, quem sabe, a próxima revolução digital no futuro!"*
