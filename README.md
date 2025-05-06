@@ -6,6 +6,8 @@ Sou **Daniely Mélo**, estudante no **2º período de Sistemas para Internet** p
 - Geração Tech 2.0
 - Residência TIC do Capacita Brasil
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniolivem&hide_progress=true)
+
 📬 **Conecte-se comigo:**
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/688916004377460799)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dani.melo.projetos@gmail.com)
