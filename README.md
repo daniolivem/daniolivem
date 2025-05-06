@@ -12,7 +12,7 @@ Sou **Daniely Mélo**, estudante no **2º período de Sistemas para Internet** p
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dani.melo.projetos@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/daniely-m%C3%A9lo-6a1a2b352)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/daniolivem/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=daniolivem" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
