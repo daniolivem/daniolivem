@@ -19,7 +19,7 @@ Sou **Daniely Mélo**, estudante no **2º período de Sistemas para Internet** p
 
 
 
-✨ *"O código que você escreve hoje é o projeto incrível de amanhã, o emprego dos seus sonhos depois de amanhã e, quem sabe, a próxima revolução digital no futuro!"*
+✨ *"O código que você escreve hoje é o projeto incrível de amanhã, o emprego dos seus sonhos depois de amanhã e, quem sabe, a próxima revolução digital no futuro!"* ✨
 
 <!--
 **daniolivem/daniolivem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
