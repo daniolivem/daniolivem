@@ -1,6 +1,6 @@
 # 👋 Olá! Bem-vind@ ao meu perfil!
 
-Sou **Daniely Mélo**, estudante no **2º período de Sistemas para Internet** pela **UESPI**. Estou me preparando para ser uma desenvolvedora **full stack** e mergulhando de cabeça em tecnologias como **HTML**, **CSS**, **JavaScript**, **Bootstrap** e **React**. 🚀
+Sou **Daniely Mélo**, estudante no **3º período de Sistemas para Internet** pela **UESPI**. Estou me preparando para ser uma desenvolvedora **full stack** e mergulhando de cabeça em tecnologias como **HTML**, **CSS**, **JavaScript**, **Bootstrap** e **React**. 🚀
 
 💡 **Programas em que participo:**
 - Geração Tech 2.0
