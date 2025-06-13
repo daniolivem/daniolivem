@@ -9,10 +9,7 @@ Sou **Daniely Mélo**, estudante no **3º período de Sistemas para Internet** p
  <hr>
 
 <table align="center" style="border:none;">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniolivem&theme=radical" alt="GitHub Streak" />
-    </td>
+  <tr> 
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniolivem&langs_count=20&theme=radical" alt="Linguagens" />
     </td>
