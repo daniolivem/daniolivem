@@ -5,6 +5,23 @@ Sou **Daniely Mélo**, estudante no **3º período de Sistemas para Internet** p
 💡 **Programas em que participo:**
 - Geração Tech 2.0
 - Residência TIC do Capacita Brasil
+
+
+
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+  <hr> 
+<table align="center" style="border:none;">
+  <tr>
+    <td align="center">
+      <a href="https://hackatime.hackclub.com/@5389">
+        <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=5389&api_domain=hackatime.hackclub.com&theme=react&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
   
  <hr>
 
