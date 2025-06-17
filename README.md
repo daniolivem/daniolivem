@@ -5,7 +5,10 @@ Sou **Daniely Mélo**, estudante no **3º período de Sistemas para Internet** p
 💡 **Programas em que participo:**
 - Geração Tech 2.0
 - Residência TIC do Capacita Brasil
- <hr>
+
+  
+###
+ ## 📊 Estatísticas
 <div align="center">
   
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=5389&api_domain=hackatime.hackclub.com&theme=rose&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
@@ -36,7 +39,7 @@ Sou **Daniely Mélo**, estudante no **3º período de Sistemas para Internet** p
 <!-- Outros elementos abaixo -->
 
 ###
-
+## 🛠️ Tecnologias e Ferramentas
 <br clear="both">
 
 <div align="center">
@@ -58,7 +61,7 @@ Sou **Daniely Mélo**, estudante no **3º período de Sistemas para Internet** p
 </div>
 
 ###
-
+## 📈 Linguagens mais usadas
 <br clear="both">
 
 <div align="center">
@@ -70,7 +73,7 @@ Sou **Daniely Mélo**, estudante no **3º período de Sistemas para Internet** p
  
  <div align="center">
    
-📬 **Conecte-se comigo:**
+## 📬 Conecte-se comigo
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/688916004377460799)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dani.melo.projetos@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/daniely-m%C3%A9lo-6a1a2b352)
@@ -78,7 +81,7 @@ Sou **Daniely Mélo**, estudante no **3º período de Sistemas para Internet** p
    </div>
 
 ###
-
+## 🎵 O que estou ouvindo no Spotify
 <br clear="both">
 
 <div align="center">
