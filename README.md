@@ -19,6 +19,7 @@ Sou **Daniely Mélo**, estudante de **Sistemas para Internet** (3º período) pe
 - 🔹 **In100tiva** - Educação Solidária
 
 ---
+<!--
 ## 📊 Métricas de Desenvolvimento
 
 <div align="center">
@@ -28,7 +29,7 @@ Sou **Daniely Mélo**, estudante de **Sistemas para Internet** (3º período) pe
 </div>
 
 ---
-
+-->
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
