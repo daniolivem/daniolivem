@@ -15,7 +15,8 @@ Sou **Daniely Mélo**, estudante de **Sistemas para Internet** (3º período) pe
 
 💡 **Programas e Iniciativas:**
 - 🔹 **Geração Tech 2.0** - Programa de formação em tecnologia
-- 🔹 **Residência TIC** - Capacita Brasil 
+- 🔹 **Residência TIC Capacita Brasil** - Avanti - FullStack
+- 🔹 **Residência TIC** - iRede - Java
 - 🔹 **In100tiva** - Educação Solidária
 
 ---
